@@ -1,0 +1,5 @@
+This is my new git txt file
+Check whether we can com
+mit one staged file and one untracked file at the same time
+this is a git life cycle
+======================================********************************************************
